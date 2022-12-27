@@ -5,6 +5,4 @@ Linguagens:
 Typescript
 
 Tecnologias:
-Node.JS
-Docker
-MongoDB
+Node.JS, Docker, MongoDB.
